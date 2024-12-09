@@ -15,7 +15,7 @@ Anyone can use the project to get started with the basics of using and fine-tuni
 Anyone interested in getting started with the ChatGPT APIs, prompt engineering, fine-tuning LLMs, and language translation, an clone or download the project to get started.
 
 # References
-I have leveraged ChatGPT for guidance in terms of some concepts and to clarify doubts, both theoretical and code-based. However, I did not use ChatGPT to generate code. I have also found the following courses from DeepLearning.AI quite useful to get started with.
+I have found the following courses from DeepLearning.AI quite useful to get started with.
 1. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/).
 2. [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/).
 
